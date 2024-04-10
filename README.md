@@ -23,7 +23,7 @@
 ## 1 - Description
 
 Conversimg is **an open-source command interpreter program** whose purpose is to allow the user to convert and resize images 
-locally without having to resort to external services on the Internet.
+locally without having to resort to external services on the Internet.s
 
 
 ## 2 - Supported formats
